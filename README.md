@@ -7,4 +7,5 @@ add english text local
   
 ## Pictures
 This is a frog
+
 ![Это лягуха](frog.jpg)
