@@ -9,3 +9,7 @@ add english text local
 This is a frog
 
 ![Это лягуха](frog.jpg)
+
+Signing in ranepa
+
+![Это авторизация](signing.jpg)
